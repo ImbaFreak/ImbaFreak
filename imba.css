@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@600&display=swap');
  *{
   margin: 0;
   padding: 0;
   box-sizing: boarder-box;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 main {
@@ -20,7 +20,7 @@ nav {
 }
 
 nav p {
-background-color: black;
+background-color: white;
 font-size: 50px;
 padding: 1%;
 margin: 50;
